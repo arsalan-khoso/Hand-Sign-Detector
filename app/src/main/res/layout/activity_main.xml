@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+
+    <Button
+        android:id="@+id/textToSpeechButton"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="Text to Speech"
+        android:layout_marginBottom="30dp"
+         />
+
+    <Button
+        android:id="@+id/camera_button"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="Hand Sign Detect"
+         />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="Combine Letters"
+        android:layout_marginTop="35dp"
+        android:id="@+id/combine_letters"
+
+        />
+    <Button
+        android:id="@+id/translate_button"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="Translator"
+        android:layout_marginTop="30dp"
+         />
+
+
+</LinearLayout>

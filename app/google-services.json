@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300543501064",
+    "project_id": "translator-48929",
+    "storage_bucket": "translator-48929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300543501064:android:63fcbbf48b3950166882bd",
+        "android_client_info": {
+          "package_name": "com.example.imagepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300543501064-kcmp8i8a5cfg37ot0rnub5ncdeaj5gq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK4CcIJtlqXGJ7cAu3tHY1M7dsMhk9428"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300543501064-kcmp8i8a5cfg37ot0rnub5ncdeaj5gq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
